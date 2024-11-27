@@ -1,0 +1,9 @@
+### Get all stores
+GET http://localhost:8080/v1/stores
+Authorization: Bearer <USER_JWT_TOKEN>
+Content-Type: application/json
+
+### Get closest stores
+GET http://localhost:8080/v1/stores/closest?latitude=51.697815&longitude=5.303675
+Authorization: Bearer <USER_JWT_TOKEN>
+Content-Type: application/json
