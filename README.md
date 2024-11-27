@@ -18,7 +18,7 @@ There are just a few rules:
 - To start the application run this command: ``./mvnw spring-boot:run``
 
 ## Test
-In the folder *src/test* are endpoint tests for intellij http client.
+- In the folder *src/test* are endpoint tests for intellij http client.
 
 ## Project structure
 This project is initialized with spring boot initializr. This is a project generator tool for more information see: [spring initializr](https://start.spring.io//)
