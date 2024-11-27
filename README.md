@@ -16,7 +16,7 @@ There are just a few rules:
 
 ## How to run the application
 - To start the application run this command: ``./mvnw spring-boot:run``
-- 
+
 ## Test
 In the folder *src/test* are endpoint tests for intellij http client.
 
